@@ -35,6 +35,6 @@ AI weather apps can go beyond traditional forecasts by:
 
 AI isn’t just in apps — research systems like **GenCast** and **WeatherNext 2** from Google DeepMind are showing that AI models can predict weather faster and sometimes more accurately than traditional physics-based models, improving forecasts and early warnings. ([The Guardian][6])
 
----
+---https://weather-mind-ai-90b46267.base44.app/
 
 
